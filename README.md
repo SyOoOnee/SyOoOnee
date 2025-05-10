@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;I`m+SooYoon+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There;I'm+SooYoon+!)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
