@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4E1F00&lines=Hi+There+I'm+SooYoon!&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I'm+SooYoon!&font=Redressed&size=40)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
