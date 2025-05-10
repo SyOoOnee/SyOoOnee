@@ -3,8 +3,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SyOoOnee!&font=Redressed&size=40)](https://git.io/typing-svg)
 
-
-<!--## Skills
+<!---->
+## Skills
 <span>
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -21,8 +21,6 @@
   <!--AWS-->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
-<br/>
-
 ## Tools
   <!--Eclipse IDE-->
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
@@ -32,7 +30,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </span>
 
-</div> -->
+</div> 
 
 <!--
 **SyOoOnee/SyOoOnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
