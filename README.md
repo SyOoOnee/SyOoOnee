@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SyOoOnee!&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<!---->
+<!--
 ## Skills
 <span>
   <!--Java-->
@@ -29,7 +29,7 @@
   <!-- Figma -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </span>
-
+-->
 </div> 
 
 <!--
