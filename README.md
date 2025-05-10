@@ -1,8 +1,10 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I'm+SooYoon!&font=Redressed&size=40)](https://git.io/typing-svg)
-
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SooYoon!&font=Redressed&size=40)](https://git.io/typing-svg)
+
+
+<h2>🚀 My Skills</h2>
 <span>
   <!--Java-->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -22,11 +24,14 @@
 
 <br/>
 
+<h2>🚀 Tools</h2>
 <span>
   <!--Eclipse IDE-->
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
   <!--Visual Studio Code-->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <!--figma-->
+  <img src="https://img.shields.io/badge/figma%#F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=#F24E1E"/>
 </span>
 
 </div>
