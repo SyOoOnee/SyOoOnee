@@ -3,33 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SyOoOnee!&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<!--
-## Skills
-<span>
-  <!--Java-->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <!--Spring-->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <!--AWS-->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
-## Tools
-  <!--Eclipse IDE-->
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
-  <!--Visual Studio Code-->
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <!-- Figma -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-</span>
--->
 </div> 
 
 <!--
