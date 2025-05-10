@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SooYoon!&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9AA6B2&lines=Hi+There+I’m+SyOoOnee!&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 ## Skills
@@ -20,12 +20,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <!--AWS-->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-</span>
 
 <br/>
 
 ## Tools
-<span>
   <!--Eclipse IDE-->
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
   <!--Visual Studio Code-->
