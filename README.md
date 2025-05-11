@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0854C1&pause=500&width=450&lines=Hi+There+(*ˊᵕˋ*)ﾉ+I’m+SyOoOnee!!&font=Redressed&size=35)]
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0854C1&pause=500&width=450&lines=Hi+There+(*ˊᵕˋ*)ﾉ+I’m+SyOoOnee!!&font=Redressed&size=35)
 
 # 💪Skills
 ### Platforms & Languages
